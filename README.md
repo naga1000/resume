@@ -1,2 +1,0 @@
-# resume
-added index.html
